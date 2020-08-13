@@ -1,0 +1,14 @@
+"Configname","Configvalue"
+"CustomerDatabaseFilePath","C:\Users\smatam2\Desktop\project\Customer.accdb"
+"CustomerExcelpath","C:\Users\smatam2\Desktop\project\Customerdetails.xlsx"
+"CustomerCsvFilepath","C:\Users\smatam2\Desktop\project\customer.csv"
+"CustomerExcelsheetNumber","Sheet1"
+"Whatapp Browser URL","https://api.whatsapp.com/send?phone="
+"Countrycode","+91"
+"Whatsapp image Attachment","C:\Users\smatam2\Desktop\project\ProductLaunch.jpg"
+"Email subject Line","Launch of GM Mobile"
+"EmailBody","Greetings !
+
+The new Mobile you are waiting for GM Mobile is available from 3pm Wednesday 12-Aug for sale @ greatshopping.com                                        EnjoyHappyShopping!                                                                    Team Great Shopping."
+"Email Image attachment","C:\Users\smatam2\Desktop\project\gm mobile.png"
+"First cell value","B1"
